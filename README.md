@@ -1,4 +1,7 @@
 ### Sending SMS and Email for Free Using Python
+
+![Python - SMS - Phone](download.png)
+
 In this repository, I am going to show how to use Python to send SMS and email for free. This is a useful feature to automate some processes. For example, you may want to create a newsletter or receive a notification when your processing ends. The process involves setting up a virtual environment and using the smtplib package. While the instructions are provided for a Windows environment with a .venv virtual environment, the process can be adapted for Conda environments and other operating systems.
 
 It is important to mention that I am not creating this from scratch. Here are some references that I used to create it:
